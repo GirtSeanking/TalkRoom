@@ -1,4 +1,4 @@
-# 单、多人聊天室使用说明
+# 聊天室使用说明
 ## 1. 服务器
 所在包 com.yanggongzhuo.function.Server
 ### 简介
